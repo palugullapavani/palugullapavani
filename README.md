@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm palugulla pavani</h1>
-<h3 align="center">A passionate software Engineer from India</h3>
+<h3 align="center">A passionate software Engineer from India</h3
+<img src="https://miro.medium.com/v2/resize:fit:680/0*1tmQJdANsZx5iHvT" alt="profile image" width="200" height="200">
 
 
 
